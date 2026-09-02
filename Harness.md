@@ -8,12 +8,12 @@ This guide outlines a reliable agentic swarm system designed to orchestrate comp
 
 The swarm operates in a strict, directed acyclic graph (DAG) pipeline acting as a Harness, utilizing ReAct patterns to separate intent classification, orchestration, and execution into isolated domains.
 #### HARNESS CORE (Overview)
-![Harness Core Overview](https://gist.github.com/user-attachments/assets/5322f5b8-f081-4557-a6dc-5de9b07c4494)
+![Harness Core Overview](https://github.com/user-attachments/assets/5322f5b8-f081-4557-a6dc-5de9b07c4494)
 
 It's never Loop vs Graph, it's both.
 
 #### Agent Dissection (Inner Loop)
-![Agent Dissection](https://gist.github.com/user-attachments/assets/2dcabfdd-7c5a-4fe3-bf00-dbc531dc9b1d)
+![Agent Dissection](https://github.com/user-attachments/assets/2dcabfdd-7c5a-4fe3-bf00-dbc531dc9b1d)
 
 
 ### 1. Intent Analyzer (Brain - The Hippocampus)
